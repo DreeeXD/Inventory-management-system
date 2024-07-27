@@ -1,0 +1,5 @@
+Camera, Sony, $8900,71
+iPhone, Apple, $1890,542
+Laptop, Asus, $3220,59
+Mouse, Razer, $4890,49
+Fan, LG, $2900,21
